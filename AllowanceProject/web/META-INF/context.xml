@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/AllowanceProject">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" maxActive="20" maxIdle="10" maxWait="-1" name="123" password="" type="javax.sql.DataSource" url="jdbc:sqlserver://lamaraodb.database.windows.net;databaseName=lamaraodb" username="diego.lamarao"/>
+</Context>
